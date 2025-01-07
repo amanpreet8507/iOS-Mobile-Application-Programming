@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXCopyFilesBuildPhase section */
-		6D8A607C2D2DA83C00E118F1 /* CopyFiles */ = {
+		6D8A608F2D2DA94500E118F1 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -19,19 +19,19 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		6D8A607E2D2DA83C00E118F1 /* b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6D8A60912D2DA94500E118F1 /* Temprature from Celsuis from Fehrenheit */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Temprature from Celsuis from Fehrenheit"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6D8A60802D2DA83C00E118F1 /* b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit */ = {
+		6D8A60932D2DA94500E118F1 /* Temprature from Celsuis from Fehrenheit */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit";
+			path = "Temprature from Celsuis from Fehrenheit";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		6D8A607B2D2DA83C00E118F1 /* Frameworks */ = {
+		6D8A608E2D2DA94500E118F1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,18 +41,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6D8A60752D2DA83C00E118F1 = {
+		6D8A60882D2DA94500E118F1 = {
 			isa = PBXGroup;
 			children = (
-				6D8A60802D2DA83C00E118F1 /* b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit */,
-				6D8A607F2D2DA83C00E118F1 /* Products */,
+				6D8A60932D2DA94500E118F1 /* Temprature from Celsuis from Fehrenheit */,
+				6D8A60922D2DA94500E118F1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		6D8A607F2D2DA83C00E118F1 /* Products */ = {
+		6D8A60922D2DA94500E118F1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6D8A607E2D2DA83C00E118F1 /* b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit */,
+				6D8A60912D2DA94500E118F1 /* Temprature from Celsuis from Fehrenheit */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,64 +60,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6D8A607D2D2DA83C00E118F1 /* b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit */ = {
+		6D8A60902D2DA94500E118F1 /* Temprature from Celsuis from Fehrenheit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6D8A60852D2DA83C00E118F1 /* Build configuration list for PBXNativeTarget "b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit" */;
+			buildConfigurationList = 6D8A60982D2DA94500E118F1 /* Build configuration list for PBXNativeTarget "Temprature from Celsuis from Fehrenheit" */;
 			buildPhases = (
-				6D8A607A2D2DA83C00E118F1 /* Sources */,
-				6D8A607B2D2DA83C00E118F1 /* Frameworks */,
-				6D8A607C2D2DA83C00E118F1 /* CopyFiles */,
+				6D8A608D2D2DA94500E118F1 /* Sources */,
+				6D8A608E2D2DA94500E118F1 /* Frameworks */,
+				6D8A608F2D2DA94500E118F1 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6D8A60802D2DA83C00E118F1 /* b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit */,
+				6D8A60932D2DA94500E118F1 /* Temprature from Celsuis from Fehrenheit */,
 			);
-			name = "b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit";
+			name = "Temprature from Celsuis from Fehrenheit";
 			packageProductDependencies = (
 			);
-			productName = "b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit";
-			productReference = 6D8A607E2D2DA83C00E118F1 /* b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit */;
+			productName = "Temprature from Celsuis from Fehrenheit";
+			productReference = 6D8A60912D2DA94500E118F1 /* Temprature from Celsuis from Fehrenheit */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		6D8A60762D2DA83C00E118F1 /* Project object */ = {
+		6D8A60892D2DA94500E118F1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					6D8A607D2D2DA83C00E118F1 = {
+					6D8A60902D2DA94500E118F1 = {
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = 6D8A60792D2DA83C00E118F1 /* Build configuration list for PBXProject "b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit" */;
+			buildConfigurationList = 6D8A608C2D2DA94500E118F1 /* Build configuration list for PBXProject "Temprature from Celsuis from Fehrenheit" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 6D8A60752D2DA83C00E118F1;
+			mainGroup = 6D8A60882D2DA94500E118F1;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 6D8A607F2D2DA83C00E118F1 /* Products */;
+			productRefGroup = 6D8A60922D2DA94500E118F1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6D8A607D2D2DA83C00E118F1 /* b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit */,
+				6D8A60902D2DA94500E118F1 /* Temprature from Celsuis from Fehrenheit */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6D8A607A2D2DA83C00E118F1 /* Sources */ = {
+		6D8A608D2D2DA94500E118F1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -127,7 +127,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		6D8A60832D2DA83C00E118F1 /* Debug */ = {
+		6D8A60962D2DA94500E118F1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -190,7 +190,7 @@
 			};
 			name = Debug;
 		};
-		6D8A60842D2DA83C00E118F1 /* Release */ = {
+		6D8A60972D2DA94500E118F1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -245,7 +245,7 @@
 			};
 			name = Release;
 		};
-		6D8A60862D2DA83C00E118F1 /* Debug */ = {
+		6D8A60992D2DA94500E118F1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -254,7 +254,7 @@
 			};
 			name = Debug;
 		};
-		6D8A60872D2DA83C00E118F1 /* Release */ = {
+		6D8A609A2D2DA94500E118F1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -266,25 +266,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6D8A60792D2DA83C00E118F1 /* Build configuration list for PBXProject "b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit" */ = {
+		6D8A608C2D2DA94500E118F1 /* Build configuration list for PBXProject "Temprature from Celsuis from Fehrenheit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6D8A60832D2DA83C00E118F1 /* Debug */,
-				6D8A60842D2DA83C00E118F1 /* Release */,
+				6D8A60962D2DA94500E118F1 /* Debug */,
+				6D8A60972D2DA94500E118F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6D8A60852D2DA83C00E118F1 /* Build configuration list for PBXNativeTarget "b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   b. Write the Swift code to read a temperature in Celsius and convert it to Fahrenheit.   Temprature from Celsius to Fahrenheit" */ = {
+		6D8A60982D2DA94500E118F1 /* Build configuration list for PBXNativeTarget "Temprature from Celsuis from Fehrenheit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6D8A60862D2DA83C00E118F1 /* Debug */,
-				6D8A60872D2DA83C00E118F1 /* Release */,
+				6D8A60992D2DA94500E118F1 /* Debug */,
+				6D8A609A2D2DA94500E118F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 6D8A60762D2DA83C00E118F1 /* Project object */;
+	rootObject = 6D8A60892D2DA94500E118F1 /* Project object */;
 }
